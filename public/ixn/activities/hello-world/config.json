@@ -2,7 +2,7 @@
    "workflowApiVersion": "1.0",
    "metaData": {
        "icon": "images/xfinity40.jpeg",
-       "iconSmall": "images/xfinity15.jpeg",
+       "iconSmall": "images/xfinity40.jpeg",
        "category": "message",
 	   "isConfigured":true
    },
