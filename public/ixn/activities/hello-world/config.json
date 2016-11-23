@@ -2,7 +2,7 @@
    "workflowApiVersion": "1.0",
    "metaData": {
        "icon": "images/beyondcore40.png",
-       "iconSmall": "beyondcore15.png",
+       "iconSmall": "images/beyondcore15.png",
        "category": "message",
 	   "isConfigured":true
    },
